@@ -1,4 +1,5 @@
 name = "lustre_platform_opentui"
+description = "Build OpenTUI apps using Lustre"
 version = "0.0.1"
 target = "javascript"
 licences = ["MIT"]
